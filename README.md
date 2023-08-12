@@ -11,8 +11,6 @@ In this data science project, we aim to explore the relationship between student
 1. Clone or download this repository to your local machine.
 2. Make sure you have Python 3.7+ installed.
 3. Install the necessary dependencies.
-4. Place your dataset in the `data/` folder (or modify the data path in the provided code).
-5. Open the Jupyter notebooks in the `notebooks/` folder to follow the data preprocessing, model training, and evaluation steps.
 
 ## Results
 
